@@ -1,0 +1,16 @@
+Line 50: Class MSWinsockLib.Winsock of control WinsockServer was not a loaded control class.
+Line 95: Class MSWinsockLib.Winsock of control WinsockServer was not a loaded control class.
+Line 148: Class MSWinsockLib.Winsock of control WinsockServer was not a loaded control class.
+Line 187: Class MSWinsockLib.Winsock of control Winsock1 was not a loaded control class.
+Line 54: The property name _ExtentX in WinsockServer is invalid.
+Line 55: The property name _ExtentY in WinsockServer is invalid.
+Line 56: The property name _Version in WinsockServer is invalid.
+Line 99: The property name _ExtentX in WinsockServer is invalid.
+Line 100: The property name _ExtentY in WinsockServer is invalid.
+Line 101: The property name _Version in WinsockServer is invalid.
+Line 152: The property name _ExtentX in WinsockServer is invalid.
+Line 153: The property name _ExtentY in WinsockServer is invalid.
+Line 154: The property name _Version in WinsockServer is invalid.
+Line 190: The property name _ExtentX in Winsock1 is invalid.
+Line 191: The property name _ExtentY in Winsock1 is invalid.
+Line 192: The property name _Version in Winsock1 is invalid.
